@@ -1,4 +1,4 @@
-
+## 🏆 About me:
 <h1>
   Hi!, I'm a Full Stack Developer
 </h1>
@@ -6,6 +6,8 @@
 <p align="center">
 <img src="https://lbivqqi4rzwwd8b7.public.blob.vercel-storage.com/SrMiichael-gus6s2lXoBX6AvFzTIytIwzwehPnp3.gif" alt="Banner">
 </p>
+
+
 ## 🌐 Socials:
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)(https://discord.gg/https://discord.gg/tvKwxjBP) 
 
